@@ -1,0 +1,6 @@
+
+{
+  "name": "Customer name",
+  "email": "customer@example.com",
+  "membership_start_date": "YYYY-MM-DD"
+}
